@@ -35,17 +35,6 @@ Site-Doces-Da-Sah/
 └── README.md
 ```
 
-## 🚀 Como executar localmente
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/miguelassis-del/Site-Doces-Da-Sah.git
-   ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd Site-Doces-Da-Sah
-   ```
-   
 ## 🌐 Publicação
 
 O site é estático, então foi hospedado gratuitamente, sem necessidade de build.
