@@ -1,0 +1,3 @@
+Abra index.html no navegador. Mantenha style.css, script.js e images na mesma pasta.
+O formulário prepara uma mensagem no WhatsApp e não confirma encomendas.
+
