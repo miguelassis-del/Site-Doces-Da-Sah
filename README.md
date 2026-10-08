@@ -2,9 +2,6 @@
 
 Site institucional / portfólio desenvolvido para a **Doces da Sah**, confeitaria artesanal de São Paulo – SP. O projeto apresenta as criações da doceria, conta a história da marca e facilita o contato com clientes por meio de pedidos via WhatsApp, iFood e 99.
 
-## 🔗 Demo
-
-
 ## ✨ Funcionalidades
 
 - **Hero de apresentação** com identidade visual da marca e chamada para encomenda
@@ -48,19 +45,10 @@ Site-Doces-Da-Sah/
    ```bash
    cd Site-Doces-Da-Sah
    ```
-3. Abra o `index.html` no navegador, ou use a extensão **Live Server** (VS Code) para recarregar automaticamente durante o desenvolvimento.
-
-## ✏️ Como personalizar
-
-- **Textos e seções:** edite o `index.html`
-- **Cores e tipografia:** ajuste o `style.css`
-- **Fotos:** substitua os arquivos na pasta `images/` mantendo os mesmos nomes (ou atualize os caminhos no HTML)
-- **WhatsApp:** altere o número `5511988562421` nos links do `index.html` e no `script.js`
-- **Delivery:** atualize os links do iFood e do 99 na seção "Peça por aqui"
-
+   
 ## 🌐 Publicação
 
-O site é estático, então pode ser hospedado gratuitamente em serviços como **GitHub Pages**, **Netlify** ou **Vercel**, sem necessidade de build.
+O site é estático, então foi hospedado gratuitamente, sem necessidade de build.
 
 ## 📞 Contato da Doces da Sah
 
